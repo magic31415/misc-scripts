@@ -1,3 +1,3 @@
 #!/bin/bash
 
-osascript /Users/Max/Library/Application\ Scripts/Decrypt.scpt
+osascript /Users/Max/Documents/Programming/misc_scripts/Decrypt.scpt
